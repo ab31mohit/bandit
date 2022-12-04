@@ -2,8 +2,8 @@
  ![bandit](/img/bandit0b.png)
  ---  
  ---
-- ## checkout the game levels **[here](https://overthewire.org/wargames/bandit/ "Bandit - OverTheWire")**.  
-- ## Login to Bandit remote server : 
+- ### Checkout the game levels [here](https://overthewire.org/wargames/bandit/ "Bandit - OverTheWire").  
+- ### Login to Bandit remote server : 
    1. Open Powershell in windows or new terminal in linux/mac.  
    2. The basic syntax to connect to remote server through ssh is :  
       `ssh <username>@host -p <port>`  
@@ -15,5 +15,5 @@
       ```  
       bandit0 
       ```    
-- ## Checkout `passwords.md` to get passwords for next levels.  
-- ## Checkout `commands.md` to enter next levels.  
+- ### Checkout `passwords.md` to get passwords for next levels.  
+- ### Checkout `commands.md` to enter next levels.  
